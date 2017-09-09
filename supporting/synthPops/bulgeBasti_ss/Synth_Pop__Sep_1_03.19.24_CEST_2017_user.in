@@ -1,0 +1,42 @@
+# 
+# Calculation "Synth_Pop__Sep_1_03.19.24_CEST_2017_":
+# 
+
+ * Random numbers generator seeds---------------: 112334 556778
+ * Scale factor for SFR-------------------------: 420000
+ * Photometric error type-----------------------: 0
+   (0=no error; 1=const. error; 2=read error-law table)
+ * Mean spectroscopic error---------------------: 0.0001 dex
+ * Distance modulus-----------------------------: 0
+ * Mass range type------------------------------: 0
+   (Default mass ranges=0 (0.1-120 Mo)
+    User-specified lower mass limit=1)
+ * Lower mass limit-----------------------------: 0.1 Msun
+ * Total spatial depth of the population--------: 0 mag
+ * Colour excess E(B-V)-------------------------: 0 mag
+ * Fraction of unresolved binaries--------------: 0.35
+ * Minimum mass ratio for binary systems--------: 0.0
+ * IMF law type---------------------------------: 1
+    (0) Single power law
+    (1) Kroupa, Tout, Gilmore (1993)
+ * Exponent IMF---------------------------------: -2.35
+ * Stellar Formation History--------------------: fixed (MilkyWaybulge)
+ * Search for variable stars (1=yes 0=no)-------: 1
+ * Set of isochrones----------------------------: 1
+    1 --> INPUTISOstdsseta02   5 --> INPUTISOstdaeneta02
+    2 --> INPUTISOovsseta02    6 --> INPUTISOovaeneta02
+    3 --> INPUTISOstdsseta04   7 --> INPUTISOstdaeneta04
+    4 --> INPUTISOovsseta04    8 --> INPUTISOovaeneta04
+ * Photometric System index---------------------: 3
+====================================================================================
+==========================    BOLOMETRIC CORRECTIONS      ==========================
+======== SCALED SOLAR  ============================== ALPHA ENHANCED ===============
+====================================================================================
+=== IBAND = 1  ---->  JOHNSON_COUSINS        <---- IBAND = 2  
+=== IBAND = 3  ---->  ACS@HST                <---- IBAND = 32 
+=== IBAND = 4  ---->  Stroemgren             <---- IBAND = 5  
+=== IBAND = 8  ---->  Sloan                  <---- IBAND = 9  
+=== IBAND = 10 ---->  Walraven               <---- IBAND = 11 
+=== IBAND = 14 ---->  WFC3@HST UVIS channel  <---- IBAND = 15 
+=== IBAND = 17 ---->  WFC2@HST               <---- IBAND = 18 
+=== IBAND = 19 ---->  WFC3@HST IR channel    <---- IBAND = 20 
