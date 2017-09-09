@@ -1,0 +1,16 @@
+#         INTEGRATED MAGNITUDES              
+#  F435W   F475W   F555W   F606W   F625W   F775W   F814W
+  -6.633  -6.903  -7.306  -7.550  -7.779  -8.278  -8.351
+# TOTAL MASS OF STARS FORMED                 
+ Mtot (Mo) =   206502.447822240     
+# NUMBER OF STARS EVOLVING IN THE CMD        
+# INCLUDING UNRESOLVED COMPONENTS            
+ Ntot =       62338
+
+
+ VARIABLE STARS SUMMARY
+ Number of Fundamental RR Lyrae=          51
+ Number of First Overtone RR Lyrae=           2
+ Number of Fundamental anomalous Cepheids=           0
+ Number of First Overtone Anomalous Cepheids=           0
+ Number of Fundamental Classical Cepheids=           0
